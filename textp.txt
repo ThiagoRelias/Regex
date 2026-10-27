@@ -1,0 +1,55 @@
+=== CASOS DE CONTATO ===
+ID: #005 | Nome: Maria Antônia | Email: m.antonia+test@outlook.com.uk | Tel: (11) 91234-5678
+ID: 006 | Nome: Lucas-Silva | Email: lucas_silva_123@empresa.dev | Tel: 0800-777-1122
+ID: 007 | Nome: Ana Costa | Email: ana.costa@gmail.com | Tel: (21) 99876-5432
+ID: 008 | Nome: João Pedro | Email: joao.pedro@email.com | Tel: (31) 3456-7890
+
+=== DATAS E HORÁRIOS ===
+Criado em: 29/02/2024 23:59:59
+Agendado para: 31/11/2025
+Data ISO: 2026-10-27 14:15:30.123 -0300
+Log antigo: 12-Jan-2022 08:00
+Nascimento: 15/08/2005
+Evento: 01/12/2026 09:30
+
+=== REDE E ENDEREÇOS IP ===
+Localhost IPv4: 127.0.0.1:3000
+IP de Broadcast: 255.255.255.255
+IP privado: 192.168.1.100
+IP inválido: 192.168.1.300
+Endereço MAC: 00:1A:2B:3C:4D:5E
+Endereço MAC com hífen: a1-b2-c3-d4-e5-f6
+
+=== URLS E LINKS ===
+Site seguro: https://site.com.br
+Site sem protocolo: www.meusite.com
+Link HTTP: http://exemplo.org
+Link suspeito: https://attacker.com
+Página com âncora: https://site.com.br/artigo#secao1
+
+=== DOCUMENTOS ===
+CPF formatado: 123.456.789-00
+CPF com espaços: 123 . 456 . 789 - 00
+CPF inválido: 111.111.111-11
+CNPJ formatado: 00.031.708/0001-00
+CNPJ sem formatação: 00031708000100
+Título de Eleitor: 0123 4567 8901
+CEP: 06700-000
+
+=== VALORES FINANCEIROS ===
+Faturamento: R$ 10.000.000,00
+Dívida ativa: -R$ 450,25
+Moeda estrangeira: € 1.500,99
+Valor em ienes: ¥350.000
+Porcentagem: 0,005%
+Desconto: 15,50%
+Notação científica: 6.022e23
+Preço: R$ 99,90
+
+=== TESTES DE NÚMEROS ===
+Inteiro positivo: 12345
+Número negativo: -450
+Decimal com ponto: 123.45
+Decimal com vírgula: 123,45
+Número com espaços: 1 234 567
+Código: AB-1234-XZ

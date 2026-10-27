@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laboratório de Regex</title>
+    <link rel="stylesheet" href="Regex.css">
+    <script src="Regex.js" defer></script>
+</head>
+<body>
+    <main class="box-container">
+        <h1>Laboratório de Regex</h1>
+        <h3>Digite os campos abaixo para testar 5 validações diferentes em tempo real.</h3>
+        <div class="campo">
+            <h2>1. E-mail (Ex: teste@email.com)</h2>
+            <input type="email" id="email" placeholder="Digite um e-mail...">
+            <ul id="lista-email"></ul>
+        </div>
+        <div class="campo">
+            <h2>2. CEP (Formato: 00000-000)</h2>
+            <input type="text" id="cep" placeholder="00000-000">
+            <ul id="lista-cep"></ul>
+        </div>
+        <div class="campo">
+            <h2>3. Celular (Formato: (00) 00000-0000)</h2>
+            <input type="tel" id="celular" placeholder="(11) 98888-7777">
+            <ul id="lista-celular"></ul>
+        </div>
+        <div class="campo">
+            <h2>4. Apenas Números (Ex: 12345)</h2>
+            <input type="text" id="numeros" placeholder="Digite apenas números...">
+            <ul id="lista-numeros"></ul>
+        </div>
+        <div class="campo">
+            <h2>5. Nome (Apenas letras e espaços)</h2>
+            <input type="text" id="nome" placeholder="Seu nome completo...">
+            <ul id="lista-nome"></ul>
+        </div>
+    </main>
+</body>
+
+</html>
